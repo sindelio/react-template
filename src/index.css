@@ -1,0 +1,20 @@
+input[type=text] {
+	margin: 10px;
+	padding: 10px;
+	color: black;
+	font-family: 'Courier New', Courier, monospace
+}
+
+input[type=submit] {
+	margin: 10px;
+	padding: 10px;
+	color: black;
+	font-family: 'Courier New', Courier, monospace
+}
+
+p {
+	margin: 10px;
+	color: red;
+	font-size: 24px;
+	font-family: 'Courier New', Courier, monospace
+}
